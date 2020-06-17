@@ -16,7 +16,7 @@ render(){
     <div>
       <Navbar dark color="primary">
         <div className="container">
-          <NavbarBrand href="/"> Ristor con Fusion </NavbarBrand>
+          <NavbarBrand href="/"> Akshay Dwivedi Restron </NavbarBrand>
         </div>
       </Navbar>
       <Menu dishes={this.state.dishes} />>
